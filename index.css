@@ -1,0 +1,26 @@
+body {
+   text-align: center;
+ }
+ 
+ 
+ 
+ 
+ #img-div {
+  background-color: #fff;
+  margin: 0 0;
+
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  padding: 15px;
+  font-size: 15px;
+  font-family: Arial;
+  text-align: center;
+}
